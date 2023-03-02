@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sultan sherimbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sultan sherimbekov" height="30" width="40" /></a>
 <a href="https://instagram.com/sultan_0101_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sultan_0101_42" height="30" width="40" /></a>
-   <a href="https://web.telegram.org/k/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" alt="typescript" width="40" height="40"/> </a>
+   <a href="https://web.telegram.org/k/" target="_blank" rel="noreferrer"> Telegram </a>
 </p>
 
 <h3 align="left">Языки и инструменты</h3>
