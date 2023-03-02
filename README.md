@@ -2,6 +2,8 @@
 
 <h3 align="left">Обо мне:</h3>
 
+<p align="left">Я начинающий frontend разработчик. Мой путь в IT начался 2021 года от Академия программирования IT-RUN, после окончании курсов я начал брать фриланс заказы и работать на программировании, далее я устроился туристическую компанию Jazeera.travel и там я работаю frontend разработчиком... </p>
+
 <h3 align="left">Свяжитесь со мной через:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sultan sherimbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sultan sherimbekov" height="30" width="40" /></a>
