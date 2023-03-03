@@ -7,7 +7,7 @@
 <h3 align="left">Свяжитесь со мной через:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sultan-sherimbekov-463377244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sultan sherimbekov" height="30" width="40" /></a>
-<a href="https://instagram.com/sultan_0101_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sultan_0101_42" height="30" width="40" /></a> <a href="https://web.telegram.org/k/" target="blank">
+<a href="https://instagram.com/sultan_0101_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sultan_0101_42" height="30" width="40" /></a> <a href="https://t.me/sultan_01_dev" target="blank">
   <img align="center" src="https://img.icons8.com/color/48/null/telegram-app--v1.png"/>  </a></p>
 
 <h3 align="left">Языки и инструменты</h3>
