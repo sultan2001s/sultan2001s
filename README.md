@@ -4,7 +4,7 @@
 
 <p align="left">Я начинающий frontend разработчик. Мой путь в IT начался 2021 года от Академия программирования IT-RUN, после окончании курсов я начал брать фриланс заказы и работать на программировании, далее я устроился туристическую компанию Jazeera.travel и там я работаю frontend разработчиком... </p>
 
-<h3 align="left">Свяжитесь со мной через:</h3>
+<!-- <h3 align="left">Свяжитесь со мной через:</h3> -->
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/sultan-sherimbekov-463377244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sultan sherimbekov" height="30" width="40" /></a>
 <a href="https://instagram.com/sultan_0101_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sultan_0101_42" height="30" width="40" /></a> <a href="https://web.telegram.org/k/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt='telegram' height='40'>  </a></p> -->
